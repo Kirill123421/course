@@ -1,0 +1,131 @@
+body{
+    background-color: white;
+}
+.logo_header{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    color: #95E1D3;
+    margin-top: 17px;
+    margin-left: 360px;
+}
+.header_content{
+ display: flex;
+}
+
+.menu-list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+.menu-item{
+    color: black;
+    margin-top: 32px;
+    font-size: 14px;
+    padding-left: 55px;
+}
+.section_content{
+    font-size: 24px;
+    color: #333333;
+    display: flex;
+    justify-content: center;
+}
+.section_content2{
+    color: #333333;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+hr{
+    background: #F38181;
+    width: 60px;
+    height: 4px;
+}
+.menu-list2{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+.menu-item2{
+    color: black;
+    font-size: 14px;
+    padding-left: 303px;
+    margin-top: 65px;
+
+}
+.section_content3{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+.section_item3{
+    color: #B6B6B6;
+    font-size: 15px;
+    padding-left: 129pxpx;
+    margin-top: 20px;
+}
+.menu-list2{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+.menu-item2{
+    color: black;
+    font-size: 14px;
+    padding-left: 303px;
+    margin-top: 65px;
+
+}
+.section_content3{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+.section_item3{
+    color: #B6B6B6;
+    font-size: 15px;
+    padding-left: 129pxpx;
+    margin-top: 20px;
+}
+.section_content{
+    font-size: 24px;
+    color: #333333;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.section_content2{
+    color: #333333;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+}
+hr{
+    background: #F38181;
+    width: 60px;
+    height: 4px;
+}
+.final_content{
+    display: flex;
+    justify-content: center;
+    color: #B6B6B6;
+    font-size: 15px;
+    margin-top: 45px;
+}
+.img_footer{
+    display: flex;
+    justify-content: center;
+    margin-left: 750px;
+    margin-top: 27px;
+    width: 380px;
+    height: 470px;
+}
+.img_footer2{
+    padding-left: 30px;
+}
